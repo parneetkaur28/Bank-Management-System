@@ -1,5 +1,5 @@
 /* ===========================================
-   Enhanced Bank Record System - Mini Project
+           Bank Record System -Project
    ===========================================*/
 
 #include <iostream>
